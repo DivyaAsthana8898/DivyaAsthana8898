@@ -7,7 +7,7 @@
 <!-- Intro Section -->
 <h1 align="center">Hi there! 👋 I'm <span style="color:#00BFFF;">Divya Asthana</span></h1>
 
-<h3 align="center">💻 3rd Year Computer Science Student | Tech Enthusiast | Innovator 🚀</h3>
+<h3 align="center">💻 FINAL YEAR Computer Science Student | Tech Enthusiast | Innovator 🚀</h3>
 
 <p align="center">
   Passionate about building impactful solutions using <b>Java</b>, <b>Web Technologies</b>, and <b>Cloud Computing</b>.  
